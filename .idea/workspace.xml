@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19668995-8d6d-4b59-ae18-b6ebc0598ef6" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/data/box.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/grass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mario.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Перемещение героя.py" afterDir="false" />
+    <list default="true" id="19668995-8d6d-4b59-ae18-b6ebc0598ef6" name="Changes" comment=" Решил Перемещение героя">
+      <change afterPath="$PROJECT_DIR$/Перемещение героя. Дополнительные уровни.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,14 +44,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Перемещение героя.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.Перемещение героя. Дополнительные уровни.executor": "Run",
+    "Python.Перемещение героя.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyGame7" />
@@ -105,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739269959171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" Решил Перемещение героя">
+      <option name="closed" value="true" />
+      <created>1739368563424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739368563424</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,7 +125,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value=" Решил Перемещение героя" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Решил Перемещение героя" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
