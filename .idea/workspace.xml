@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19668995-8d6d-4b59-ae18-b6ebc0598ef6" name="Changes" comment=" Решил Перемещение героя">
-      <change afterPath="$PROJECT_DIR$/Перемещение героя. Дополнительные уровни.py" afterDir="false" />
+    <list default="true" id="19668995-8d6d-4b59-ae18-b6ebc0598ef6" name="Changes" comment=" Решил Перемещение героя. Дополнительные уровни">
+      <change afterPath="$PROJECT_DIR$/maps/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Перемещение героя. Камера.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/maps/1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +51,11 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "Python.Перемещение героя. Дополнительные уровни.executor": "Run",
+    "Python.Перемещение героя. Камера.executor": "Run",
     "Python.Перемещение героя.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Sysadmin/PycharmProjects/PyGame6"
   }
 }]]></component>
   <component name="RunManager">
@@ -109,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739368563424</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" Решил Перемещение героя. Дополнительные уровни">
+      <option name="closed" value="true" />
+      <created>1739369397443</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739369397443</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,17 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value=" Решил Перемещение героя" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Решил Перемещение героя" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value=" Решил Перемещение героя. Дополнительные уровни" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Решил Перемещение героя. Дополнительные уровни" />
   </component>
 </project>
